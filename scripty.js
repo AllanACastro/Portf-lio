@@ -8,3 +8,6 @@ function abrirmenu(){
     }
 }
 
+function pararGif() {
+    Gifffer();
+  }

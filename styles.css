@@ -203,8 +203,9 @@ aside{
 /*-----sobremim------*/
 
 .c-sobre{
-    display: flex;
-    justify-content: space-around;
+    display:inline-flex;
+    justify-content: center;
+    gap: 10rem;
     padding: 150px 0px;
     width: 100%;
     flex-wrap: wrap;
